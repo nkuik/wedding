@@ -1,12 +1,4 @@
 module.exports = {
-  purge: {
-    enabled: true,
-    content: [
-      './content/**/*.md',
-      './layouts/**/*.html',
-      // wherever else you use tailwind classes
-    ],
-  },
   target: 'relaxed',
   prefix: '',
   important: false,
