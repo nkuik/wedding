@@ -1,7 +1,7 @@
 # SETUP
 baseurl = "/"
 DefaultContentLanguage = "en"
-publishdir = "docs"
+publishdir = "public"
 canonifyUrls = "true"
 disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that we don't need...
 
