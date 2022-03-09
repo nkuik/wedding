@@ -230,7 +230,8 @@ module.exports = {
       default: '1',
     },
     fontFamily: {
-      custom: ['Playfair Display', 'serif'],
+      caps: ['Playfair Display', 'serif'],
+      custom: ['Lora', 'serif'],
       custom2: ['Raleway', 'sans-serif'],
       sans: [
         'system-ui',
