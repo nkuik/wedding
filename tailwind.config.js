@@ -230,9 +230,8 @@ module.exports = {
       default: '1',
     },
     fontFamily: {
-      caps: ['Playfair Display', 'serif'],
-      custom: ['Lora', 'serif'],
-      custom2: ['Raleway', 'sans-serif'],
+      lora: ['Lora', 'serif'],
+      raleway: ['Raleway', 'sans-serif'],
       sans: [
         'system-ui',
         '-apple-system',
