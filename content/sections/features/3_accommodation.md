@@ -1,5 +1,5 @@
 ---
-title: Accomadation
+title: Accommodation
 weight: 3
 icon: icon3.svg
 ---
