@@ -14,13 +14,16 @@ disableKinds = ["RSS","taxonomy","taxonomyTerm"]
 
 [languages]
   [languages.da]
-    languageName = 'DA'
+    languageName = 'Dansk'
     title = 'Bryllup - Luna & Nathan'
     weight = 1
+    contentDir = 'content/dansk'
+
   [languages.en]
-    languageName = 'EN'
+    languageName = 'English'
     title = 'Wedding - Luna & Nathan'
     weight = 2
+    contentDir = 'content/english'
 
 [[languages.da.menu.main]]
     name = "hjem"

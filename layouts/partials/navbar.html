@@ -5,7 +5,7 @@
     <div id="menu" class="w-full sm:w-auto sm:self-center hidden sm:flex flex-col sm:flex-row items-center h-full pb-4 sm:py-0 sm:pb-0">
         {{ if .IsTranslated }}
             {{ range .Translations }}
-                <a class="font-raleway text-gray-500 hover:text-gray-800 text-center w-full no-underline sm:w-auto sm:pr-4 py-2 sm:py-1" href="{{ .Permalink }}">{{ .Language.LanguageName }}  |  </a>
+                <a class="font-raleway text-gray-500 hover:text-gray-800 text-lg text-center w-full no-underline sm:w-auto sm:pr-4 py-2 sm:py-1" href="{{ .Permalink }}">{{ .Language.LanguageName }}  |  </a>
             {{ end}}
         {{ end }}
         <a class="font-raleway text-indigo-400 font-bold hover:text-gray-500 text-lg text-center w-full no-underline sm:w-auto sm:pr-4 py-2 sm:py-1" href="https://google.com">{{ i18n "wishlist" . }}</a>
