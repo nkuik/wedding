@@ -1,2 +1,8 @@
+- id: wishlist
+  translation: "Wishlist"
+- id: rsvp
+  translation: "RSVP"
 - id: wedding
   translation: "Wedding"
+- id: wedding_date
+  translation: "September 9, 2022"
