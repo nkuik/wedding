@@ -1,6 +1,6 @@
 {{ $headless := .Site.GetPage "/sections" }}
 {{ $info := $headless.Resources.GetMatch (printf "*%s*" "info") }}
-{{ $fts := sort ( $headless.Resources.Match "features/*" ) "Params.weight" }}
+{{ $fts := sort ( $headless.Resources.Match "infos/*.md" ) "Params.weight" }}
 
 <div id="info" class="w-full flex flex-col text-center items-center pt-12">
     <div class="w-full xl:w-4/5 flex flex-col pb-12 sm:flex-row flex-wrap px-4 xl:px:0">
