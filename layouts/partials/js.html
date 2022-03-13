@@ -2,6 +2,13 @@
 <script src="https://unpkg.com/tippy.js@4"></script>
 <script>
 
+    const tailwindSmall = 640;
+    if (window.innerWidth < tailwindSmall) {
+        let translation = document.getElementById('translation');
+        let translationMenu = document.getElementById('translationMenu');
+        translation.classList.toggle('hidden');
+        translationMenu.classList.toggle('hidden');
+    }
     function navToggle() {
         let btn = document.getElementById('menuBtn');
         let nav = document.getElementById('menu');
