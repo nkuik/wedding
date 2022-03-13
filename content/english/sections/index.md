@@ -1,5 +1,5 @@
 ---
-title: Wedding! 
+title: Wedding
 headless: true
 resources:
     - name: info 
