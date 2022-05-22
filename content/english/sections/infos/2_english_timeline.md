@@ -3,4 +3,4 @@ title: Timeline
 weight: 2
 ---
 
-Welcome drink and arrival{{< text_end_beginning >}}14:30{{< text_end_ending >}}
+{{< div_begin >}}Welcome drink and arrival{{< div_end >}}{{< div_begin >}}14:30{{< div_end >}}
