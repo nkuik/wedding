@@ -3,8 +3,10 @@ title: What to Bring
 weight: 4
 ---
 
-Party clothes\
+Formal/Semi-formal attire — ceremony\
 \
-Bedsheets and pyjamas — if you are staying the night\
+Semi-formal/casual — reception & dinner\
 \
-Swimsuit — if you want to swim the next day
+Bedsheets, pyjamas, & towel — if you are staying the night\
+\
+Swimsuit — for swimming the next day

@@ -1,6 +1,10 @@
 ---
-title: Timeline 
+title: Timeline
 weight: 2
 ---
 
-{{< div_begin >}}Welcome drink and arrival{{< div_end >}}{{< div_begin >}}14:30{{< div_end >}}
+14:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome drink and arrival\
+15:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ceremony\
+16:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reception\
+17:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dinner\
+21:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dance
