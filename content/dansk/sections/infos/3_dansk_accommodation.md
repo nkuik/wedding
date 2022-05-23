@@ -3,4 +3,9 @@ title: Overnatning
 weight: 3
 ---
 
-The place have 32 beds in 13 rooms (2 quadruple rooms, 2 triple rooms and 9 double rooms) - if you wish to stay the night let us know in the RSVP
+Stedet har 32 senge i 13 værelser — hvis I gerne vil overnatte,\
+så skriv det i SU, så fordeler vi værelserne og skriver ud til\
+jer eller finder nogle alternative løsninger.\
+\
+I er også velkommen til at medbringe et telt, campingvogn,\
+camplet eller noget tredje

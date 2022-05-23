@@ -3,4 +3,8 @@ title: At Have Med
 weight: 4
 ---
 
-Party clothes
+Festtøj \
+\
+Lagen, sengetøj og håndklæde — hvis du overnatter i huset \
+\
+Badetøj — hvis du vil i søen næste morgen.
