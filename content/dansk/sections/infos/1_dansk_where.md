@@ -1,5 +1,5 @@
 ---
-title: Hvor?
+title: Hvor
 weight: 1
 ---
 

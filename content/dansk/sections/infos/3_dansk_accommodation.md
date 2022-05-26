@@ -3,9 +3,14 @@ title: Overnatning
 weight: 3
 ---
 
-Stedet har 32 senge i 13 værelser — hvis I gerne vil overnatte,\
-så skriv det i SU, så fordeler vi værelserne og skriver ud til\
-jer eller finder nogle alternative løsninger.\
+The venue has room for tents, campers, etc. You are more than welcome to bring your own means for sleeping onsite, you are more than welcome — the venue
+also has toilet and showering facilities.\
 \
-I er også velkommen til at medbringe et telt, campingvogn,\
-camplet eller noget tredje
+Otherwise, we suggest the following accommodations:
+\
+\
+a. [Ullstorp Cottages](https://www.ullstorp.se/)
+\
+b. [Gästgifwaregård](https://hoorsgastis.se/)
+\
+c. [Stiftsgården Åkersberg](https://akersberg.se/)
