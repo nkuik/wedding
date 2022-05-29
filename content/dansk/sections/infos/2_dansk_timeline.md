@@ -3,8 +3,8 @@ title: Tidslinje
 weight: 2
 ---
 
-14.30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Velkomstdrink & red seng \
-15.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bryllupsceremoni \
-16.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reception \
-17.30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Middag \
-21.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans
+Velkomstdrink & red seng fra 14.00\
+Bryllupsceremoni&nbsp;&nbsp;&nbsp;&nbsp;15.00\
+Reception&nbsp;&nbsp;&nbsp;&nbsp;16.00\
+Middag&nbsp;&nbsp;&nbsp;&nbsp;17.30\
+Dans og DJ indtil sent

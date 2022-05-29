@@ -6,5 +6,3 @@ resources:
       src: info.md
     - src: 'infos/*'
 ---
-
-> this folder stores the content for the HOME page

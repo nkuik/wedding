@@ -3,9 +3,8 @@ title: Overnatning
 weight: 3
 ---
 
-Stedet har 32 senge i 13 værelser — hvis I gerne vil overnatte,\
-så skriv det i SU, så fordeler vi værelserne og skriver ud til\
-jer eller finder nogle alternative løsninger.\
+Når vi ved hvor mange der overnatter vil vi arbejde på at fordele værelser og senge blandt gæsterne. Dog kan vi ikke garantere 2-personsværelser, da flere af værelserne vil være med 3-4 sengepladser i hver.\
 \
-I er også velkommen til at medbringe et telt, campingvogn,\
-camplet eller noget tredje
+Hvis I foretrækker det er der rigeligt plads udendørs til at slå et telt op eller parkere en camper.\
+\
+Herudover er der følgende overnatningsmuligheder i nærheden: 
