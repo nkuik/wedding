@@ -3,14 +3,8 @@ title: Accommodation
 weight: 3
 ---
 
-The venue has room for tents, campers, etc. You are more than welcome to bring your own means for sleeping onsite, you are more than welcome — the venue
-also has toilet and showering facilities.\
+We are working on distributing guests between rooms at the venue, many of which require shared sleeping arrangements.\
+\
+If you would like to be sure to have your own unshared accommadation, you are more than welcome to bring your own means for sleeping onsite, such as a tent or camper — the venue also has toilet and showering facilities.\
 \
 Otherwise, we suggest the following accommodations:
-\
-\
-a. [Ullstorp Cottages](https://www.ullstorp.se/)
-\
-b. [Gästgifwaregård](https://hoorsgastis.se/)
-\
-c. [Stiftsgården Åkersberg](https://akersberg.se/)

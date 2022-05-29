@@ -3,14 +3,8 @@ title: Overnatning
 weight: 3
 ---
 
-The venue has room for tents, campers, etc. You are more than welcome to bring your own means for sleeping onsite, you are more than welcome — the venue
-also has toilet and showering facilities.\
+Når vi ved hvor mange der overnatter vil vi arbejde på at fordele værelser og senge blandt gæsterne. Dog kan vi ikke garantere 2-personsværelser, da flere af værelserne vil være med 3-4 sengepladser i hver.\
 \
-Otherwise, we suggest the following accommodations:
+Hvis I foretrækker det er der rigeligt plads udendørs til at slå et telt op eller parkere en camper.\
 \
-\
-a. [Ullstorp Cottages](https://www.ullstorp.se/)
-\
-b. [Gästgifwaregård](https://hoorsgastis.se/)
-\
-c. [Stiftsgården Åkersberg](https://akersberg.se/)
+Herudover er der følgende overnatningsmuligheder i nærheden: 
