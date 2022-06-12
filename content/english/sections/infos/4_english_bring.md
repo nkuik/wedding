@@ -3,9 +3,7 @@ title: What to Bring
 weight: 4
 ---
 
-Formal/Semi-formal attire — ceremony\
-\
-Semi-formal/casual — reception & dinner\
+Formal or semi-formal attire\
 \
 Bedsheets, pyjamas, & towel — if you are staying the night\
 \
