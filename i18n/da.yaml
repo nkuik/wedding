@@ -1,5 +1,5 @@
 - id: wishlist
-  translation: "Ønskelist"
+  translation: "Ønskeliste"
 - id: rsvp
   translation: "S.U."
 - id: wedding
@@ -10,3 +10,5 @@
   translation: "Vi glæder os til at fejre vores kærlighed med familie og venner"
 - id: contact
   translation: "Kontakt"
+- id: rsvp_deadline
+  translation: "S.U. senest 17. juli"

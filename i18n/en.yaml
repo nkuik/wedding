@@ -10,3 +10,5 @@
   translation: "We are getting married and would like to celebrate our love with family and friends!"
 - id: contact
   translation: "Contact"
+- id: rsvp_deadline
+  translation: "RSVP latest July 17"
