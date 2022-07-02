@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
 <head>
+    <link rel="icon" type="image/png" href="{{ .Site.Params.favicon_32 | default "/img/favicon-32x32.png" | relURL }}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ .Site.Params.favicon_16 | default "/img/favicon-16x16.png" | relURL }}" sizes="16x16">
     {{ block "head" . }}
         {{ partial "head.html" . }}
     {{ end }}
