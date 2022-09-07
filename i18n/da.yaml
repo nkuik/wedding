@@ -12,3 +12,11 @@
   translation: "Kontakt"
 - id: rsvp_deadline
   translation: "S.U. senest 30. juli"
+- id: speech_button
+  translation: "Indslag til toastmasters"
+- id: speech_send_email
+  translation: "Giv besked til toastmasters"
+- id: speech_email
+  translation: "mailto:juanfelipesim@gmail.com?subject=Indslag til Brylluppet"
+- id: speech_message
+  translation: "Hvis du vil gerne lave et indslag eller give en tale, skal du skrive en besked til vores toastmasters:"
