@@ -12,3 +12,11 @@
   translation: "Contact"
 - id: rsvp_deadline
   translation: "RSVP latest July 30"
+- id: speech_button
+  translation: "Give a Speech"
+- id: speech_send_email
+  translation: "Notify toastmasters"
+- id: speech_email
+  translation: "mailto:juanfelipesim@gmail.com?subject=Speech at the Wedding"
+- id: speech_message
+  translation: "If you'd like to give a speech at the wedding, please notify our toastmasters via an email:"
