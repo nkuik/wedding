@@ -3,7 +3,7 @@ title: Timeline
 weight: 2
 ---
 
-Arrival & welcome drink from 14:00\
+Arrival from 14:00\
 Ceremony&nbsp;&nbsp;&nbsp;&nbsp;15:00\
 Reception&nbsp;&nbsp;&nbsp;&nbsp;16.00\
 Dinner&nbsp;&nbsp;&nbsp;&nbsp;17.30\
